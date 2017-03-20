@@ -1,0 +1,10 @@
+c:\users\rfreites\documents\visual studio 2017\Projects\WebApplication\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.deps.json
+c:\users\rfreites\documents\visual studio 2017\Projects\WebApplication\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.runtimeconfig.json
+c:\users\rfreites\documents\visual studio 2017\Projects\WebApplication\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.runtimeconfig.dev.json
+c:\users\rfreites\documents\visual studio 2017\Projects\WebApplication\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.dll
+c:\users\rfreites\documents\visual studio 2017\Projects\WebApplication\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.pdb
+c:\users\rfreites\documents\visual studio 2017\Projects\WebApplication\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.csprojResolveAssemblyReference.cache
+c:\users\rfreites\documents\visual studio 2017\Projects\WebApplication\WebApplication\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\rfreites\documents\visual studio 2017\Projects\WebApplication\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.AssemblyInfo.cs
+c:\users\rfreites\documents\visual studio 2017\Projects\WebApplication\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.dll
+c:\users\rfreites\documents\visual studio 2017\Projects\WebApplication\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.pdb
